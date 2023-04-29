@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[annotator.webm](https://user-images.githubusercontent.com/127300279/235306112-90460bdc-0334-41a9-9539-e830c6360797.webm)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
